@@ -1,6 +1,6 @@
 # Git Assignment 1
 
-## Prerequisites
+## Procedures
 1. Clone this repository:
 
    ```bash
