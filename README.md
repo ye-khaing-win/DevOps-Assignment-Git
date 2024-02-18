@@ -11,4 +11,4 @@
 4. Commit you changes with a descriptive commit message
 4. Push this new branch to the remote repository
 
-## Thanks you
+## Thank you
