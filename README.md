@@ -12,3 +12,5 @@
 4. Push this new branch to the remote repository
 
 ## Thank you
+
+This is a new line.
